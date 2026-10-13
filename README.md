@@ -16,11 +16,9 @@ A beginner-level web development project that demonstrates a currency converter 
 ## Credits
 This project was developed as a learning exercise based on the CurrencyConverter example from Shradha Khapra's JavaScriptSeries.
 
-Source: https://github.com/shradha-khapra/JavaScriptSeries/tree/main/CurrencyConverter
 
 ## Future Improvements
 - Improve the design and responsiveness
 - Add input validation and error handling
 - Extend the functionality after understanding the existing code
-कॉपी करो
-इस
+  
